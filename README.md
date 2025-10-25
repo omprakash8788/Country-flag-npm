@@ -1,4 +1,4 @@
-## a basic documentation specifically for the country flags feature in your npm package:
+## A basic documentation specifically for the country flags feature in your npm package:
 
 ## @omprakashkumar/country-flags-package
 
